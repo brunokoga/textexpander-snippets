@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>Good</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gw3</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-10-02T15:24:26Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Good List {W3}</string>
+			<key>lastUsed</key>
+			<date>2013-10-02T15:53:13Z</date>
+			<key>modificationDate</key>
+			<date>2013-10-02T15:52:34Z</date>
+			<key>plainText</key>
+			<string>[{W3}](http://www.%filltext:name=domain%)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>F6C91FB8-AB31-4047-A523-2DE8D4E4951D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;ggh</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-10-02T15:24:18Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Good List {GH}</string>
+			<key>modificationDate</key>
+			<date>2013-10-02T15:52:09Z</date>
+			<key>plainText</key>
+			<string>[{LI}](https://www.github.com%filltext:name=Github username%)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>56BD6652-B6C5-4961-A096-BEFB0D9F8F99</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gli</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-10-02T15:24:11Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Good List {LI}</string>
+			<key>modificationDate</key>
+			<date>2013-10-02T15:51:47Z</date>
+			<key>plainText</key>
+			<string>[{LI}](https://www.linkedin.com/in/%filltext:name=LinkedIn username%)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>B5E51FD3-5FEB-4967-BD7B-F22A4BE21596</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;gf</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-10-02T15:24:07Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Good List {f}</string>
+			<key>lastUsed</key>
+			<date>2013-10-02T15:50:06Z</date>
+			<key>modificationDate</key>
+			<date>2013-10-02T15:51:37Z</date>
+			<key>plainText</key>
+			<string>[{f}](https://www.facebook.com/%filltext:name=Facebook username%)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>15280F17-E580-49B1-B640-3898EF56C3A2</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;g@</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-10-02T15:23:51Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Good List {@}</string>
+			<key>lastUsed</key>
+			<date>2013-10-02T15:54:52Z</date>
+			<key>modificationDate</key>
+			<date>2013-10-02T15:51:42Z</date>
+			<key>plainText</key>
+			<string>[{@}](https://www.twitter.com/%filltext:name=Twitter account%)</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>FA502C9B-2E18-4627-A817-B3629F14EFC7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>;good</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2013-10-02T15:14:09Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>Good List New Entry</string>
+			<key>lastUsed</key>
+			<date>2013-10-02T15:46:14Z</date>
+			<key>modificationDate</key>
+			<date>2013-10-02T15:48:07Z</date>
+			<key>plainText</key>
+			<string>* %filltext:name=name%%fillpart:default=no% [{W3}](http://www.%filltext:name=domain%)%fillpartend%%fillpart:default=no%[{@}](https://www.twitter.com/%filltext:name=Twitter account%)%fillpartend%%fillpart:default=no% [{f}](https://www.facebook.com/%filltext:name=Facebook username%)%fillpartend%%fillpart:default=no% [{LI}](https://www.linkedin.com/in/%filltext:name=LinkedIn username%)%fillpartend%%fillpart:default=no% [{GH}](https://www.github.com/%filltext:name=Github username%)%fillpartend%
+</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>FD86FA8D-6FB7-40D9-94E1-27475CE10C21</string>
+		</dict>
+	</array>
+</dict>
+</plist>
